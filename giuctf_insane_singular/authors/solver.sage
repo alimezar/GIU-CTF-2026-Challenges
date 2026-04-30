@@ -82,7 +82,7 @@ def solve_for_e(e):
 # only 172 candidates. We try each one until the Grobner
 # basis produces a valid solution.
 # ============================================================
-print("[*] quick maffs - Grobner Basis Solver")
+print("[*] Singular Intentions solver")
 prime_list = list(primes(2, 1024))
 print(f"[*] Testing {len(prime_list)} candidate primes for e...")
 
