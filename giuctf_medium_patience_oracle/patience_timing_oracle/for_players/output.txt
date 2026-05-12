@@ -1,0 +1,4 @@
+# The box refuses to explain itself.
+
+nonce = baddcafedeadbeef00112233
+sealed = f62aa9ad6ef21a09baff3d2dc00193f712eb11c4adb1d4ea4f7ab197db67054037e4ca818c15476b7737dc93c3342b557b7f9991e052
