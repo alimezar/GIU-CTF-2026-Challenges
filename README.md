@@ -1,2 +1,11 @@
-# CryptoChallenges-GIUCTF2026
-This Repository contains all Challenges that were part of the Cryptography Category in the GIU-CTF 2026 Competition.
+# GIU CTF 2026 Challenges
+
+This repository contains challenges from GIU CTF 2026 across multiple categories.
+
+## Categories
+
+- `crypto` - Cryptography challenges
+- `osint` - Open-source intelligence challenges
+- `web` - Web security challenges
+
+Each category contains the challenge files, author materials, and player-facing resources where applicable.
