@@ -3,6 +3,9 @@
 **Difficulty:** Insane  
 **Flag:** `GIUCTF{gr0ebn3r_b4s1s+s4g3!}`
 
+## Credits
+First, I'd like to give credit to @0verflowme on hackthebox, this challenge is based off of his "Quick Maffs" challenge. Challenge Link: https://app.hackthebox.com/challenges/quick%2520maffs?tab=play_challenge
+
 ## Challenge description
 Three ciphertexts were torn out of the same machine, one modulus was left behind, and someone leaked a single algebraic relation that should never have survived. The exponent is missing, the messages are split, and the arithmetic looks just ugly enough to waste your night. It isn't. Can you collapse the system?
 
